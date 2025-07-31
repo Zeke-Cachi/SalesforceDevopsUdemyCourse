@@ -5,7 +5,11 @@
       "default": true
     }
   ],
+<<<<<<< HEAD
   "name": "NewDevopsCourseProject",
+=======
+  "name": "SalesforceDevopsUdemyCourse",
+>>>>>>> 958cf6126418419a1a93a7bbf825424c3993707d
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "64.0"
